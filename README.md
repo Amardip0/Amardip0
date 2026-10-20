@@ -1,90 +1,120 @@
-<h1 align="center">Hi, I'm Amardip Chaudhari 👋</h1>
+<!-- ===== HEADER ===== -->
+<div align="center">
 
-<p align="center">
-  <b>MCA Student • Full-Stack (MERN) Developer • Android Developer</b><br>
-  Building clean, useful web and mobile apps.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:10b981&height=220&section=header&text=Amardip%20Chaudhari&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%E2%80%A2%20MERN%20%26%20Android%20Developer&descAlignY=60&descSize=18" alt="header"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:amardip1109@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <!-- Portfolio live hone ke baad niche link badlo -->
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-Visit-2F855A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-</p>
+<a href="https://github.com/Amardip0">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=Building+clean+web+%26+mobile+apps;Learning+MERN+Stack+every+day;Kotlin+%2B+Jetpack+Compose+for+Android;Open+to+internships+%26+collaborations" alt="typing"/>
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:amardip1109@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- Portfolio live hone ke baad niche link badlo -->
+<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-Visit-047857?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Amardip0&label=Profile+Views&color=10b981&style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **MCA** at **Uka Tarsadia University**, Bardoli (Surat), Gujarat
-- 📚 Completed **BCA** with a **7.45 CGPA**
-- 🌱 Currently learning **React, Node.js, Express and MongoDB (MERN)**
-- 📱 Building **Android apps** with **Kotlin and Jetpack Compose**
-- 🎯 Long-term goal: a **Computer Science PhD** after MCA
-- 📫 Reach me at **amardip1109@gmail.com**
+```js
+const amardip = {
+  name: "Amardip Premnarayan Chaudhari",
+  role: "MCA Student | Full-Stack & Android Developer",
+  university: "Uka Tarsadia University, Bardoli (Surat), Gujarat",
+  learning: ["React", "Node.js", "Express", "MongoDB"],
+  building: ["Custom Dialer App (Kotlin)", "Portfolio Website"],
+  goal: "Strong software engineer, then a CS PhD",
+  openTo: ["Internships", "Collaborations", "Open Source"],
+  contact: "amardip1109@gmail.com",
+};
+```
+
+- 🎓 Pursuing **MCA** at Uka Tarsadia University; completed **BCA with 7.45 CGPA**
+- 🌱 Learning the **MERN stack** and building real projects with it
+- 📱 Creating **Android apps** with Kotlin and Jetpack Compose
+- 🎯 Aiming for a career in software engineering and later **research (PhD in CS)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Web**
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,mysql,python&perline=10" alt="web skills"/>
+<br>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,vscode,vercel&perline=10" alt="mobile and tools"/>
 
-**Mobile**
+</div>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-
-**Database & Backend**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+| Area | Technologies |
+|---|---|
+| **Frontend** | HTML, CSS, JavaScript, React |
+| **Backend** | Node.js, Express, PHP |
+| **Database** | MongoDB, MySQL, Firebase |
+| **Mobile** | Kotlin, Jetpack Compose, Android Studio |
+| **Other** | Python, Git, GitHub, VS Code |
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 📞 **Custom Dialer App** | Personal default dialer for Android with T9 search, speed dial, backup/restore and a dark OLED design | Kotlin, Jetpack Compose |
-| 🎵 **Music Player App** | Android music player with a minimal Nothing-inspired UI | Kotlin, Android |
-| 🌾 **Farm Inventory (MERN)** | Farmer and crop management with REST API and React frontend | React, Express, MongoDB |
-| 📰 **News Portal** | Dynamic news website with admin panel | PHP, MySQL |
-| 🩸 **Blood Donation System** | Web app connecting blood donors and seekers | PHP, MySQL |
-| 🏠 **House Price Prediction** | ML model that predicts house prices | Python |
-| 🌐 **Portfolio Website** | My personal portfolio | React |
+| | Project | What it does | Tech | Status |
+|---|---|---|---|---|
+| 📞 | **Custom Dialer App** | Default Android dialer with T9 search, speed dial, backup/restore and a dark OLED design | Kotlin, Jetpack Compose | 🔨 In progress |
+| 🎵 | **Music Player App** | Android music player with a minimal Nothing-inspired UI | Kotlin, Android | ✅ Built |
+| 🌾 | **Farm Inventory (MERN)** | Farmer and crop management with REST API and React frontend | React, Express, MongoDB | 🔨 In progress |
+| 🌐 | **Portfolio Website** | My personal portfolio with projects and contact form | React | ✅ Live soon |
+| 📰 | **News Portal** | Dynamic news website with admin panel | PHP, MySQL | ✅ Built |
+| 🩸 | **Blood Donation System** | Web app connecting blood donors and seekers | PHP, MySQL | ✅ Built |
+| 🏠 | **House Price Prediction** | Machine learning model to predict house prices | Python | ✅ Built |
 
-> 🔗 Repository links, screenshots and live demos are being added.
+> 🔗 Repository links, screenshots and live demos are being added soon.
+
+---
+
+## 🎓 Education
+
+| Year | Course | Institute |
+|---|---|---|
+| 2026 – Present | **MCA** | Uka Tarsadia University, Bardoli (Surat) |
+| Completed | **BCA** (CGPA 7.45) | CASPS / VNSGU, Surat |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amardip0&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amardip0&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages">
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amardip0&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amardip0&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" alt="top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=Amardip0&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amardip0&bg_color=0d1117&color=10b981&line=10b981&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Let's Connect
 
-I'm open to **internships, collaborations and learning opportunities**. Feel free to reach out!
+I'm open to **internships, collaborations and learning opportunities**.
+If you have an idea or a project, feel free to reach out!
 
-<p align="center"><i>⭐ If you like any of my projects, a star means a lot!</i></p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b"><img src="https://img.shields.io/badge/LinkedIn-Amardip_Chaudhari-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:amardip1109@gmail.com"><img src="https://img.shields.io/badge/Gmail-amardip1109@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+<br><br>
+
+<i>"First, solve the problem. Then, write the code."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:064e3b&height=120&section=footer" alt="footer"/>
+
+</div>
