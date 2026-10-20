@@ -11,8 +11,7 @@
 
 <a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:amardip1109@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<!-- Portfolio live hone ke baad niche link badlo -->
-<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-Visit-047857?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://amardip.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-047857?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Amardip0&label=Profile+Views&color=10b981&style=for-the-badge"/>
 
 </div>
@@ -68,7 +67,7 @@ const amardip = {
 | 📞 | **Custom Dialer App** | Default Android dialer with T9 search, speed dial, backup/restore and a dark OLED design | Kotlin, Jetpack Compose | 🔨 In progress |
 | 🎵 | **Music Player App** | Android music player with a minimal Nothing-inspired UI | Kotlin, Android | ✅ Built |
 | 🌾 | **Farm Inventory (MERN)** | Farmer and crop management with REST API and React frontend | React, Express, MongoDB | 🔨 In progress |
-| 🌐 | **Portfolio Website** | My personal portfolio with projects and contact form | React | ✅ Live soon |
+| 🌐 | **Portfolio Website** | My personal portfolio with projects and contact form | React | ✅ [Live](https://amardip.vercel.app) |
 | 📰 | **News Portal** | Dynamic news website with admin panel | PHP, MySQL | ✅ Built |
 | 🩸 | **Blood Donation System** | Web app connecting blood donors and seekers | PHP, MySQL | ✅ Built |
 | 🏠 | **House Price Prediction** | Machine learning model to predict house prices | Python | ✅ Built |
