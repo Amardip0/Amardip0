@@ -1,18 +1,22 @@
-<!-- ===== HEADER ===== -->
+ <!-- ===== HERO HEADER ===== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:10b981&height=220&section=header&text=Amardip%20Chaudhari&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%E2%80%A2%20MERN%20%26%20Android%20Developer&descAlignY=60&descSize=18" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e2b,50:047857,100:34d399&height=240&section=header&text=Amardip%20Chaudhari&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=FULL-STACK%20%7C%20ANDROID%20DEVELOPER&descSize=17&descAlignY=57" width="100%" alt="Amardip Chaudhari — Developer Header" />
 
 <a href="https://github.com/Amardip0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=Building+clean+web+%26+mobile+apps;Learning+MERN+Stack+every+day;Kotlin+%2B+Jetpack+Compose+for+Android;Open+to+internships+%26+collaborations" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Building+useful+digital+experiences;MERN+Stack+%7C+React+%7C+Node.js;Android+Development+with+Kotlin;Learning%2C+Building%2C+Improving" alt="Developer introduction animation" />
 </a>
 
-<br><br>
+<br/>
 
-<a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:amardip1109@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://amardip.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-047857?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Amardip0&label=Profile+Views&color=10b981&style=for-the-badge"/>
+<a href="https://amardip.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:amardip1109@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Amardip0&label=PROFILE%20VIEWS&color=059669&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -20,23 +24,32 @@
 
 ## 👨‍💻 About Me
 
-```js
-const amardip = {
-  name: "Amardip Premnarayan Chaudhari",
-  role: "MCA Student | Full-Stack & Android Developer",
-  university: "Uka Tarsadia University, Bardoli (Surat), Gujarat",
-  learning: ["React", "Node.js", "Express", "MongoDB"],
-  building: ["Custom Dialer App (Kotlin)", "Portfolio Website"],
-  goal: "Strong software engineer, then a CS PhD",
-  openTo: ["Internships", "Collaborations", "Open Source"],
-  contact: "amardip1109@gmail.com",
+I'm an MCA student and aspiring software engineer interested in building practical web applications and Android experiences.
+
+- 🎓 Pursuing **MCA at Uka Tarsadia University, Bardoli**
+- 💻 Working with **React, Node.js, Express and MongoDB**
+- 📱 Exploring Android development with **Kotlin and Jetpack Compose**
+- 🧩 Interested in APIs, databases, application architecture and problem-solving
+- 🚀 Building projects to strengthen my development skills
+- 🤝 Open to internships, collaborative projects and open-source learning
+
+### A little about my journey
+
+```javascript
+const developer = {
+  name: "Amardip Chaudhari",
+  education: "MCA",
+  focus: ["Full-Stack Development", "Android Development"],
+  technologies: {
+    frontend: ["HTML", "CSS", "JavaScript", "React"],
+    backend: ["Node.js", "Express", "PHP"],
+    databases: ["MongoDB", "MySQL", "Firebase"],
+    mobile: ["Kotlin", "Jetpack Compose"]
+  },
+  currentGoal: "Become a strong software engineer",
+  openTo: ["Internships", "Collaboration", "Open Source"]
 };
 ```
-
-- 🎓 Pursuing **MCA** at Uka Tarsadia University; completed **BCA with 7.45 CGPA**
-- 🌱 Learning the **MERN stack** and building real projects with it
-- 📱 Creating **Android apps** with Kotlin and Jetpack Compose
-- 🎯 Aiming for a career in software engineering and later **research (PhD in CS)**
 
 ---
 
@@ -44,82 +57,102 @@ const amardip = {
 
 <div align="center">
 
+### Frontend Development
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap&theme=dark" alt="Frontend technologies"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,mysql,python&perline=10" alt="Web Skills" />
+### Backend & Databases
 
-<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,firebase,python&theme=dark" alt="Backend and database technologies"/>
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,vscode,vercel&perline=10" alt="Mobile Development and Tools" />
+### Android Development & Tools
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,vscode,vercel&theme=dark" alt="Android development and developer tools"/>
 
 </div>
 
+---
 
-| Area | Technologies |
-|---|---|
-| **Frontend** | HTML, CSS, JavaScript, React |
-| **Backend** | Node.js, Express, PHP |
-| **Database** | MongoDB, MySQL, Firebase |
-| **Mobile** | Kotlin, Jetpack Compose, Android Studio |
-| **Other** | Python, Git, GitHub, VS Code |
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://amardip.vercel.app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amardip0&repo=portfolio&theme=transparent&hide_border=true&title_color=10b981&icon_color=10b981" alt="Portfolio repository card"/>
+</a>
+
+</div>
+
+| Project | Description | Technologies |
+|---|---|---|
+| 📞 **Custom Dialer App** | Android dialer with T9 search, speed dial and a dark OLED-inspired interface | Kotlin, Jetpack Compose |
+| 🎵 **Music Player** | Android music player with a minimal, Nothing-inspired interface | Kotlin, Android |
+| 🌾 **Farm Inventory** | Farmer and crop management application with a REST API and frontend | React, Express, MongoDB |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing development skills and projects | React |
+| 📰 **News Portal** | Dynamic news website with an administration panel | PHP, MySQL |
+| 🩸 **Blood Donation System** | Web application connecting blood donors with people seeking donations | PHP, MySQL |
+| 🏠 **House Price Prediction** | Machine learning project for predicting house prices | Python |
+
+> Note: Project descriptions reflect the intended features and technologies. Link each project to its actual repository, and label it as complete only when the implementation is finished.
 
 ---
 
-## 🚀 Projects
+## 📊 GitHub Analytics
 
-| | Project | What it does | Tech | Status |
-|---|---|---|---|---|
-| 📞 | **Custom Dialer App** | Default Android dialer with T9 search, speed dial, backup/restore and a dark OLED design | Kotlin, Jetpack Compose | 🔨 In progress |
-| 🎵 | **Music Player App** | Android music player with a minimal Nothing-inspired UI | Kotlin, Android | ✅ Built |
-| 🌾 | **Farm Inventory (MERN)** | Farmer and crop management with REST API and React frontend | React, Express, MongoDB | 🔨 In progress |
-| 🌐 | **Portfolio Website** | My personal portfolio with projects and contact form | React | ✅ [Live](https://amardip.vercel.app) |
-| 📰 | **News Portal** | Dynamic news website with admin panel | PHP, MySQL | ✅ Built |
-| 🩸 | **Blood Donation System** | Web app connecting blood donors and seekers | PHP, MySQL | ✅ Built |
-| 🏠 | **House Price Prediction** | Machine learning model to predict house prices | Python | ✅ Built |
+<div align="center">
 
-> 🔗 Repository links, screenshots and live demos are being added soon.
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Amardip0&show_icons=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=e5e7eb" alt="GitHub contribution statistics"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amardip0&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=e5e7eb" alt="Most used programming languages"/>
+
+<br/>
+
+<img width="95%" src="https://streak-stats.demolab.com/?user=Amardip0&hide_border=true&background=0d1117&ring=34d399&fire=34d399&currStreakLabel=34d399&currStreakNum=e5e7eb&sideNums=e5e7eb&sideLabels=9ca3af&dates=9ca3af" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amardip0&bg_color=0d1117&color=34d399&line=10b981&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph"/>
+
+</div>
 
 ---
 
 ## 🎓 Education
 
-| Year | Course | Institute |
+| Qualification | Institution | Status |
 |---|---|---|
-| 2026 – Present | **MCA** | Uka Tarsadia University, Bardoli (Surat) |
-| Completed | **BCA** (CGPA 7.45) | CASPS / VNSGU, Surat |
+| Master of Computer Applications (MCA) | Uka Tarsadia University, Bardoli | Pursuing |
+| Bachelor of Computer Applications (BCA) | College of Applied Sciences and Professional Studies, affiliated with VNSGU | Completed — 7.45 CGPA |
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amardip0&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amardip0&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" alt="top languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=Amardip0&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amardip0&bg_color=0d1117&color=10b981&line=10b981&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
-
-</div>
+- Strengthening full-stack development fundamentals
+- Building functional web applications with React and Node.js
+- Improving Android development skills with Kotlin
+- Practising clean code, debugging and API integration
+- Developing a portfolio of practical software projects
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
-I'm open to **internships, collaborations and learning opportunities**.
-If you have an idea or a project, feel free to reach out!
+I'm interested in meeting developers, learning from experienced engineers and collaborating on useful software projects.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b"><img src="https://img.shields.io/badge/LinkedIn-Amardip_Chaudhari-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:amardip1109@gmail.com"><img src="https://img.shields.io/badge/Gmail-amardip1109@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Amardip0"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:amardip1109@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://amardip.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
-<br><br>
+<br/><br/>
 
-<i>"First, solve the problem. Then, write the code."</i>
+*"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:064e3b&height=120&section=footer" alt="footer"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,50:047857,100:052e2b&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
