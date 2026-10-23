@@ -44,11 +44,17 @@ const amardip = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,mysql,python&perline=10" alt="web skills"/>
-<br>
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,vscode,vercel&perline=10" alt="mobile and tools"/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,mysql,python&perline=10" alt="Web Skills" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,vscode,vercel&perline=10" alt="Mobile Development and Tools" />
 
 </div>
+
 
 | Area | Technologies |
 |---|---|
