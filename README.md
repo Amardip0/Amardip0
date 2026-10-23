@@ -1,78 +1,117 @@
-<!-- AMARDIP0 | MATRIX TERMINAL PROFILE -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050A07&height=125&section=header&text=AMARDIP0&fontSize=52&fontColor=00FF88&animation=fadeIn" width="100%" alt="Amardip0"/>
 
-<p><strong><code>[ MCA STUDENT ] [ FULL-STACK DEVELOPER ] [ ANDROID DEVELOPER ]</code></strong></p>
+<img src="assets/hero-banner.png" alt="Amardip Chaudhari — Matrix terminal developer banner" width="100%"/>
 
-<a href="https://github.com/Amardip0"><img src="https://img.shields.io/badge/GitHub-Profile-00FF88?style=flat-square&logo=github&logoColor=black" alt="GitHub profile"/></a>
-<a href="https://amardip.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b"><img src="https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=flat-square&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
-<a href="mailto:amardip1109@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00FF88?style=flat-square&logo=gmail&logoColor=black" alt="Email"/></a>
+
+**MCA STUDENT · FULL-STACK WEB · ANDROID DEVELOPMENT**
+
+
+[Portfolio](https://amardip.vercel.app) · [GitHub Repositories](https://github.com/Amardip0?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/amardip-chaudhari-688b5432b) · [Email](mailto:amardip1109@gmail.com)
+
 
 </div>
 
-> whoami
 
-I'm Amardip Premnarayan Chaudhari, an MCA student focused on full-stack web development and Android application development.
+---
 
-🎓 MCA — Uka Tarsadia University, Bardoli
 
-📚 BCA graduate — 7.45 CGPA
+## `01 // SYSTEM PROFILE`
 
-🌐 Building web applications with React and Node.js
 
-📱 Exploring Android development with Kotlin and Jetpack Compose
+```text
 
-🤝 Open to internships, collaboration and open-source learning
+USER       : Amardip Premnarayan Chaudhari
 
-> tech --list
+EDUCATION  : MCA — Uka Tarsadia University, Bardoli
 
-Frontend
+PREVIOUS   : BCA — 7.45 CGPA
 
-<div> <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap" alt="HTML CSS JavaScript React jQuery Bootstrap"/> </div>
+FOCUS      : Full-stack web development + Android
 
-Backend & Databases
+STACK      : React · Node.js · Express · MongoDB · Kotlin
 
-<div> <img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,firebase,python" alt="Node.js Express PHP MongoDB MySQL Firebase Python"/> </div>
+OPEN TO    : Internships · Collaboration · Open Source
 
-Android & Tools
+```
 
-<div> <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,vscode,vercel" alt="Kotlin Android Studio Git GitHub VS Code Vercel"/> </div>
 
-> projects --featured
+I’m an MCA student interested in building practical web applications and Android experiences. I’m strengthening my development skills through projects, hands-on implementation, and continuous learning.
 
-ProjectOverviewStack📞 Custom DialerAndroid dialer with T9 search, speed dial and OLED-inspired designKotlin, Jetpack Compose🎵 Music PlayerMinimal Android music playerKotlin, Android🌾 Farm InventoryFarmer and crop management applicationReact, Express, MongoDB🌐 PortfolioPersonal developer portfolioReact📰 News PortalDynamic news website with admin panelPHP, MySQL🩸 Blood Donation SystemDonor and seeker connection platformPHP, MySQL🏠 House Price PredictionMachine learning prediction projectPython
 
-> education --history
+## `02 // TECH STACK`
 
-QualificationInstitutionStatusMCAUka Tarsadia University, BardoliPursuingBCACollege of Applied Sciences and Professional Studies, affiliated with VNSGUCompleted — 7.45 CGPA
 
-> github --overview
+<img src="assets/tech-stack.svg" alt="Locally stored technology stack graphic" width="100%"/>
+
+
+## `03 // PROJECTS`
+
+
+| Project | Overview | Technologies |
+
+|---|---|---|
+
+| **Custom Dialer App** | Android dialer project with T9 search, speed dial and OLED-inspired UI | Kotlin, Jetpack Compose |
+
+| **Music Player** | Minimal Android music player with a Nothing-inspired visual direction | Kotlin, Android |
+
+| **Farm Inventory** | Farmer and crop management application | React, Express, MongoDB |
+
+| **Portfolio Website** | Personal portfolio website | React |
+
+| **News Portal** | Dynamic news website with an admin panel | PHP, MySQL |
+
+| **Blood Donation System** | Web application connecting blood donors and seekers | PHP, MySQL |
+
+| **House Price Prediction** | Machine-learning prediction project | Python |
+
+
+*Descriptions summarize the projects and intended functionality; implementation status may vary. Browse the repositories for available source code.*
+
+
+## `04 // EDUCATION LOG`
+
+
+| Qualification | Institution | Status |
+
+|---|---|---|
+
+| MCA | Uka Tarsadia University, Bardoli | Pursuing |
+
+| BCA | College of Applied Sciences and Professional Studies, affiliated with VNSGU | Completed · 7.45 CGPA |
+
+
+## `05 // CURRENT OBJECTIVES`
+
+
+```text
+
+[01] Strengthen full-stack development fundamentals
+
+[02] Build practical React and Node.js applications
+
+[03] Improve Kotlin and Android development skills
+
+[04] Practise debugging, API integration and clean code
+
+[05] Document projects clearly and keep learning
+
+```
+
+
+## `06 // CONNECT`
+
 
 <div align="center">
 
-<a href="https://github.com/Amardip0?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/></a>
-<a href="https://github.com/Amardip0?tab=stars"><img src="https://img.shields.io/badge/Starred%20Projects-View-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Starred projects"/></a>
+
+[GitHub](https://github.com/Amardip0) · [Portfolio](https://amardip.vercel.app) · [LinkedIn](https://www.linkedin.com/in/amardip-chaudhari-688b5432b) · [Email](mailto:amardip1109@gmail.com)
+
+
+`BUILD // DEBUG // IMPROVE_`
+
 
 </div>
 
-> current_mission
-
-[01] Improve full-stack development skills [02] Build functional web applications and APIs [03] Develop practical Kotlin Android applications [04] Write maintainable code and document projects [05] Grow a strong software engineering portfolio
-
-> connect
-
-<div align="center">
-
-<a href="https://github.com/Amardip0"><img src="https://img.shields.io/badge/GitHub-Follow-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b"><img src="https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
-<a href="mailto:amardip1109@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-00FF88?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
-
-<br/><br/>
-
-<code>ACCESS GRANTED // KEEP BUILDING_</code>
-
-</div>
 
