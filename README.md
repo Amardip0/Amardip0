@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://amardip.vercel.app">Portfolio</a> ·
+  <a href="https://amardipchaudhari.vercel.app">Portfolio</a> ·
   <a href="https://github.com/Amardip0?tab=repositories">Projects</a> ·
   <a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b">LinkedIn</a> ·
   <a href="mailto:amardip1109@gmail.com">Contact</a>
