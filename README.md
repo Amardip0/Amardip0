@@ -1,113 +1,204 @@
 
-<div align="center">
+<!--
+AMARDIP CHAUDHARI — PREMIUM EDITORIAL PROFILE
+Banner: save your custom banner as assets/editorial-banner.png
+-->
 
-# AMARDIP CHAUDHARI
+<p align="center">
+  <img src="./assets/editorial-banner.png" alt="Amardip Chaudhari — Software, Web and Android" width="100%" />
+</p>
 
-### MCA Student · Full-Stack Developer · Android Developer
+<p align="center">
+  <a href="https://amardip.vercel.app">PORTFOLIO</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/Amardip0?tab=repositories">PROJECTS</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b">LINKEDIN</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:amardip1109@gmail.com">CONTACT</a>
+</p>
 
-*Building practical applications. Learning by creating.*
+# Amardip Chaudhari
 
-<a href="https://amardip.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit-0969DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/Amardip0">
-  <img src="https://img.shields.io/badge/GITHUB-Profile-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+**Full-Stack Development · Android Engineering · Software Projects**
 
-</div>
+I’m an MCA student and developer interested in building useful software across web and mobile platforms. My work combines interface development, application logic, database integration and continuous experimentation with new technologies.
+
+I approach development as a process: understand the problem, design a practical solution, implement it, and refine it through testing.
+
+[View my portfolio](https://amardip.vercel.app) · [Explore my repositories](https://github.com/Amardip0?tab=repositories)
 
 ---
 
-## About Me
+## Profile
 
-I'm Amardip Premnarayan Chaudhari, an MCA student interested in full-stack web development and Android application development.
+| | |
+|:--|:--|
+| **Currently** | Pursuing MCA at Uka Tarsadia University, Bardoli |
+| **Education** | BCA graduate · 7.45 CGPA |
+| **Web development** | React, JavaScript, Node.js, Express |
+| **Mobile development** | Kotlin, Android development, Jetpack Compose |
+| **Data & backend** | MongoDB, MySQL, Firebase, PHP |
+| **Interested in** | Full-stack applications, Android engineering and software development |
 
-- 🎓 Pursuing MCA at Uka Tarsadia University, Bardoli
-- 📚 Completed BCA with 7.45 CGPA
-- 💻 Learning React, Node.js, Express and MongoDB
-- 📱 Exploring Android development with Kotlin and Jetpack Compose
-- 🤝 Open to internships, collaborations and open-source learning
+---
 
-## Tech Stack
+## Selected Work
 
-<div align="center">
+Projects across different areas of application development.
 
-**Frontend**
+### 01 — Custom Android Dialer
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap" alt="Frontend technologies"/>
+An Android dialer project exploring efficient contact discovery and a streamlined calling interface.
 
-**Backend & Databases**
+- T9 contact search and speed-dial workflows
+- Minimal, OLED-inspired visual direction
+- Focus on practical mobile interactions
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,firebase,python" alt="Backend and database technologies"/>
+`Kotlin` · `Jetpack Compose`
 
-**Android & Tools**
+### 02 — Farm Inventory
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,vscode,vercel" alt="Android and development tools"/>
+A web application concept for organizing farmer and crop-related information.
 
-</div>
+- Structured information management
+- Web interface connected to backend services
+- Database-oriented application architecture
 
-## Projects
+`React` · `Express` · `MongoDB`
 
-| Project | Description | Technologies |
-|---|---|---|
-| Custom Dialer App | Android dialer project with T9 search, speed dial and OLED-inspired design | Kotlin, Jetpack Compose |
-| Music Player | Minimal Android music player | Kotlin, Android |
-| Farm Inventory | Farmer and crop management application | React, Express, MongoDB |
-| Portfolio Website | Personal developer portfolio | React |
-| News Portal | Dynamic news website with admin panel | PHP, MySQL |
-| Blood Donation System | Application connecting donors and seekers | PHP, MySQL |
-| House Price Prediction | Machine learning prediction project | Python |
+### 03 — News Portal
+
+A dynamic news website designed around content publishing and administrative management.
+
+- News content management
+- Server-side processing and database integration
+- Administrative workflows
+
+`PHP` · `MySQL`
+
+### 04 — Blood Donation System
+
+A web application concept intended to support donor information management and blood-donation coordination.
+
+- Donor and request management
+- Database-backed workflows
+- Practical web application development
+
+`PHP` · `MySQL`
+
+### 05 — Android Music Player
+
+A mobile application project focused on music playback and a straightforward user experience.
+
+- Android interface development
+- Playback-related functionality
+- Mobile application fundamentals
+
+`Kotlin` · `Android SDK`
+
+### 06 — House Price Prediction
+
+A machine learning project exploring the use of data to estimate residential property prices.
+
+- Data preparation
+- Predictive modelling
+- Python-based experimentation
+
+`Python` · `Machine Learning`
+
+<p align="left">
+  <a href="https://github.com/Amardip0?tab=repositories">Browse all repositories →</a>
+</p>
+
+---
+
+## Technical Practice
+
+**Programming languages**
+
+`JavaScript` `Kotlin` `Python` `PHP` `Java`
+
+**Web interfaces**
+
+`HTML5` `CSS3` `React` `Bootstrap` `jQuery`
+
+**Backend & data**
+
+`Node.js` `Express` `MongoDB` `MySQL` `Firebase`
+
+**Mobile development**
+
+`Android Studio` `Android SDK` `Jetpack Compose`
+
+**Tools & workflow**
+
+`Git` `GitHub` `VS Code` `Postman` `Vercel`
+
+---
+
+## GitHub Overview
+
+A snapshot of my public development activity and repository language distribution.
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Amardip0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
+    alt="Amardip's GitHub statistics"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amardip0&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"
+    alt="Most-used languages in public repositories"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Amardip0?tab=repositories">Explore the code behind my projects →</a>
+</p>
+
+---
+
+## What I'm Working Toward
+
+- Developing stronger full-stack application architecture skills.
+- Building practical applications with clear separation of concerns.
+- Improving Android development with Kotlin.
+- Writing maintainable code and strengthening debugging practices.
+- Learning through implementation, documentation and iteration.
+
+---
 
 ## Education
 
-| Qualification | Institution | Status |
-|---|---|---|
-| MCA | Uka Tarsadia University, Bardoli | Pursuing |
-| BCA | College of Applied Sciences and Professional Studies, affiliated with VNSGU | Completed — 7.45 CGPA |
+**Master of Computer Applications (MCA)**  
+Uka Tarsadia University, Bardoli  
+*Currently pursuing*
 
-## GitHub
+**Bachelor of Computer Applications (BCA)**  
+College of Applied Sciences and Professional Studies  
+Affiliated with Veer Narmad South Gujarat University  
+*Completed · 7.45 CGPA*
 
-<div align="center">
+---
 
-<a href="https://github.com/Amardip0?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-2DA44E?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
+## Contact
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amardip0&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics"/>
+I’m interested in relevant internship opportunities, junior developer roles and collaborative software projects.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amardip0&layout=compact&hide_border=true&theme=default" alt="Most used languages"/>
+<p align="left">
+  <a href="https://amardip.vercel.app">Portfolio ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b">LinkedIn ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Amardip0">GitHub ↗</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:amardip1109@gmail.com">Email ↗</a>
+</p>
 
-</div>
+---
 
-## Current Focus
-
-- Strengthening full-stack development fundamentals
-- Building practical web applications and APIs
-- Improving Kotlin and Android development
-- Practising debugging and clean code
-- Documenting projects and improving software engineering skills
-
-## Let's Connect
-
-<div align="center">
-
-<a href="mailto:amardip1109@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://www.linkedin.com/in/amardip-chaudhari-688b5432b">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://amardip.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0969DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-**First, solve the problem. Then, write the code.**
-
-</div>
+<p align="center">
+  <sub>AMARDIP CHAUDHARI · SOFTWARE DEVELOPMENT · BUILT WITH INTENT</sub>
+</p>
